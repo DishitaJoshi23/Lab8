@@ -6,6 +6,6 @@ Question: How are graceful degradation and service workers related? (Answer this
 
 Answer: Service workers are a tool for graceful degradation. So basically when the network fails, instead of the app breaking completely, the service worker serves cached resources so the user can still access content offline.
 
-##Pwa screenshot:
+## Pwa screenshot:
 ![PWA Screenshot](pwa.png) 
 
