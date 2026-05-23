@@ -9,3 +9,5 @@ Answer: Service workers are a tool for graceful degradation. So basically when t
 ## Pwa screenshot:
 ![PWA Screenshot](pwa.png) 
 
+### Github pages
+https://dishitajoshi23.github.io/Lab8/
