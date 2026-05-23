@@ -1,4 +1,7 @@
 # Lab8
+Name: Dishita 
+![PWA Screenshot](pwa.png) 
+
 ## Part 2: Explore
 Question: How are graceful degradation and service workers related? (Answer this after doing the part below)
 
